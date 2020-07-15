@@ -1,0 +1,91 @@
+.webContainer {
+	background-color: #fff;
+	height: 100%;
+}
+
+.header {
+	height: 10%;
+	font-family: 'Teko', sans-serif;
+	background-color: #74b9ff;
+}
+
+.websiteBody {
+	min-height: 90%;
+	padding: 30px;
+}
+
+.footer {
+	height: 5%;
+	padding: 30px;
+	background-color: #dfe6e9;
+}
+
+.brand {
+	font-size: 6vh;
+	padding: 0px 100px;
+	color: #fff;
+}
+
+.message {
+	margin: 20px 0px 0px 0px;
+}
+
+.userType {
+	background-color: #00b894;
+	font-size: 2vh;
+	width: 100px;
+	padding: 5px 10px;
+	border-radius: 5px;
+	color: white;
+}
+
+.navItem {
+	color: #636e72;
+	font-size: 2.5vh;
+	padding: 5px;
+}
+
+.navItem:hover {
+	background-color: #dfe6e9;
+	color: #636e72;
+	cursor: pointer;
+}
+
+.forms {
+	padding: 30px 5%;
+	background-color: #343a40;
+	box-shadow: 10px 10px 10px gray;
+	margin: 50px 10% 0px;
+	color: white;
+}
+
+.reportButton {
+	padding: 10px;
+	background-color: white;
+	cursor: pointer;
+}
+
+.profileButton {
+	padding: 10px;
+	background-color: white;
+	cursor: pointer;
+}
+
+.profileForm {
+	background-color: #343a40;
+	box-shadow: 10px 10px 10px gray;
+	padding: 30px 300px;
+	color: white;
+}
+
+.vertical-center {
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+
+	-ms-flex-align: center;
+	-webkit-align-items: center;
+	-webkit-box-align: center;
+
+	align-items: center;
+}
