@@ -1,4 +1,4 @@
-1. Put this foder in the htdocs folder of xampp.
+1. Put this folder in the htdocs folder of xampp.
 2. Create a database named services and import services.sql file present in the folder.
 3. visit localhost/services
 4. admin id: admin@gmail.com
